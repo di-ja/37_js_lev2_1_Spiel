@@ -1,0 +1,39 @@
+html{
+    scroll-behavior: smooth;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+* {margin:0; padding:0}
+
+.one {
+    width: 40%;
+}
+
+
+/*
+
+/*Large Desktop*
+@media (min-width:1200px) {
+    
+}
+/*Normal Desktop*
+@media (min-width:1024px) and (max-width:1199px) {
+    
+}
+/*small desktop*
+@media (min-width:980px) and (max-width:1023px) {
+    
+}
+/*For tablet *
+@media (min-width:768px) and (max-width:979px)  {
+    
+}
+/*For Mobile landscape *
+@media (min-width:480px) and (max-width:767px)  {
+    
+}
+/*For Mobile  *
+@media (min-width:320px) and (max-width:479px)  {
+}
