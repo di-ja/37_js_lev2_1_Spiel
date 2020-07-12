@@ -7,10 +7,29 @@ body {
 }
 * {margin:0; padding:0}
 
+h1, h2, h3 {
+    margin-left: 5%;
+    padding: 4vh 0 3.5vh;
+}
+
 .one {
     width: 40%;
 }
-
+.button {
+    padding: 20px 20px 23px;
+    margin: 3vh 0 4vh 5%;
+    margin-bottom: 3vh;
+    border: none;
+    border-radius: 16px;
+    width: 20%;
+    height: 10vh;
+    background: tomato;
+}
+input {
+    font-size: 1.2em;
+    padding: 12px;
+    margin-left: 3%;
+}
 
 /*
 
